@@ -1,0 +1,61 @@
+# ===========================
+# PDF Files (large + copyright)
+# ===========================
+*.pdf
+data/input/
+data/sample_input/*.pdf
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===========================
+# Jupyter Notebooks
+# ===========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===========================
+# Environment
+# ===========================
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===========================
+# Logs
+# ===========================
+*.log
+logs/
+
+# ===========================
+# Large output files (keep sample only)
+# ===========================
+data/output/*.xlsx
+!data/output/sample_output.xlsx
