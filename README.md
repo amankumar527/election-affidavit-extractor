@@ -65,7 +65,7 @@ election-affidavit-extractor/
 │
 ├── screenshots/
 │   ├── output_excel.png             ← Screenshot of Excel output
-│   └── code_running.png             ← Screenshot of script execution
+│   
 │
 └── docs/
     └── approach.md                  ← Detailed explanation of approach
@@ -77,9 +77,9 @@ election-affidavit-extractor/
 
 | pdf_file | candidate_name | assembly_constituency | phone_1 | phone_2 |
 |---|---|---|---|---|
-| candidate_1.pdf | Rajesh Kumar | 120-Naharkatia | 9678433499 | |
-| candidate_2.pdf | Anita Devi | 94-Sarupathar LAC | 9435053344 | 9854186769 |
-| candidate_3.pdf | Mohan Singh | 106-Sonari | 8822191621 | 6900865325 |
+| candidate_1.pdf | Rajesh Kumar | 120-Naharkatia | 96784334** | |
+| candidate_2.pdf | Anita Devi | 94-Sarupathar LAC | 94350533** | 98541867** |
+| candidate_3.pdf | Mohan Singh | 106-Sonari | 88221916** | 69008653** |
 
 ---
 
@@ -190,10 +190,9 @@ Excel export (.xlsx)
 
 ## 👤 Author
 
-**Shivam**
-- 📧 [your-email@gmail.com]
-- 💼 [LinkedIn Profile URL]
-- 🐙 [GitHub Profile URL]
+**Aman**
+- 📧 [amankumara527@gmail.com]
+
 
 ---
 
